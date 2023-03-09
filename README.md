@@ -6,7 +6,7 @@ This file has some recommendations to compile and run the code.
 
 This repository has four main versions of the code. The original code was named Alg2FixSerial7_bueno, the original code in serial with the new algorithm is Alg2FixSerialNewAlgorithm3_bueno, the code in parallel is Alg2FixParallelbueno and the code in parallel with the new algorithm is ParallelwithNewAlgoritmBueno.
 
-To run any of these versions we recommend to run in Linux command line
+To run any of these versions we recommend to run in Linux command line:
 
 make clean
 
