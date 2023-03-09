@@ -9,7 +9,10 @@ This repository has four main versions of the code. The original code was named 
 To run any of these versions we recommend to run in Linux command line
 
 make clean
+
 make
+
 ./Alg2Fix
+
 
 The code was tested for different cases and combinations of parameters of Viscoplastic fluids. The code will be continued to be tested and integrated. 
